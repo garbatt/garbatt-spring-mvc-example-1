@@ -1,0 +1,4 @@
+Notes:
+http://localhost:8080/com.garbatt.mvc/welcome      For welcome page
+http://localhost:8080/com.garbatt.mvc/             for Hello page
+http://localhost:8080/com.garbatt.mvc/permutations  for permutations page
