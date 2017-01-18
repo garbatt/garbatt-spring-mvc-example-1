@@ -7,7 +7,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Welcome</title>
         <script src="myjscript.js"></script>
-        
+        <link rel="stylesheet" type="text/css" href="mystyle.css" />
     </head>
     <body>
         <h1>Welcome to the World!</h1>
@@ -25,6 +25,8 @@
         <button type="button" onclick="myFunction()">Try it, script in file</button>
         
         <p id="demo"></p>
+        
+<!--         <img src=ducky.gif alt="Ducky image"/> -->
         
     </body>
 </html>
