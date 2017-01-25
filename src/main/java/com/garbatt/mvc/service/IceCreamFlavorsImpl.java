@@ -14,6 +14,8 @@ public class IceCreamFlavorsImpl implements IceCreamFlavors {
 		this.flavors.add("Vanilla");
 		this.flavors.add("Chocolate");
 		this.flavors.add("Coconut");
+		this.flavors.add("Caramel");
+		this.flavors.add("Cookie Dough");
 	}
 
 	/* (non-Javadoc)
